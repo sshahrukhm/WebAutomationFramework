@@ -11,6 +11,7 @@
     <modules>
         <module>Generic</module>
         <module>HBO</module>
+        <module>Booking.com</module>
     </modules>
 
     <dependencyManagement>
