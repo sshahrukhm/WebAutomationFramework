@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../MidtermJuly2018" beforeDir="false" afterPath="$PROJECT_DIR$/../../MidtermJuly2018" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
+>>>>>>> c2cbac6dddabffa0ab6083b4ca015074a5db6735
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -93,14 +106,33 @@
       <usages-collector id="statistics.file.types.edit" />
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="779161971">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="313">
               <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="584">
+              <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+=======
+            <state relative-caret-position="175">
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+>>>>>>> c2cbac6dddabffa0ab6083b4ca015074a5db6735
             </state>
           </provider>
         </entry>
@@ -113,8 +145,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="10827">
               <caret line="401" column="69" selection-start-line="401" selection-start-column="69" selection-end-line="401" selection-end-column="69" />
+=======
+            <state relative-caret-position="302">
+              <caret line="291" column="40" lean-forward="true" selection-start-line="291" selection-start-column="40" selection-end-line="291" selection-end-column="40" />
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
+>>>>>>> c2cbac6dddabffa0ab6083b4ca015074a5db6735
             </state>
           </provider>
         </entry>
@@ -159,10 +197,17 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="976" />
+=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="21" />
     <option name="width" value="818" />
     <option name="height" value="653" />
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -170,6 +215,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+=======
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,8 +236,11 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
       <pane id="PackagesPane" />
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -232,9 +285,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="0" y="23" width="1680" height="976" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34798536" />
+=======
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22348994" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06375839" />
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
+>>>>>>> c2cbac6dddabffa0ab6083b4ca015074a5db6735
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -248,8 +311,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49932885" visible="true" weight="0.23512748" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.29745042" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18099548" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29745042" />
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+>>>>>>> c2cbac6dddabffa0ab6083b4ca015074a5db6735
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -269,6 +341,12 @@
     <entry file="file://$PROJECT_DIR$/HBO/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+=======
     <entry file="file://$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -286,8 +364,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="313">
           <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+=======
+        <state relative-caret-position="175">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+>>>>>>> 0695b325d4c66e3684b88265ff41474df903dc79
+>>>>>>> c2cbac6dddabffa0ab6083b4ca015074a5db6735
         </state>
       </provider>
     </entry>
