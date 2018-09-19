@@ -15,17 +15,37 @@ import java.util.concurrent.TimeUnit;
 public class CommonAPI {
     public WebDriver driver = null;
 
-    @Parameters({"url"})
     @BeforeMethod
-    public void setUp(@Optional("https://www.hbo.com/") String url) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/driver/chromedriver");
-        driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.get(url);
+    @Parameters({"platform", "browser", "url"})
+    public void setUp(String platform, String browser, String url) throws InterruptedException {
+        localDriver(platform, browser);
+        driver.navigate().to(url);
         driver.manage().window().maximize();
         Thread.sleep(3000);
+    }
+
+    public void localDriver(String platform, String browser) throws InterruptedException {
+        if (platform.contains("Mac")) {
+            if (browser.equalsIgnoreCase("Chrome")) {
+                System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/driver/chromedriver");
+                driver = new ChromeDriver();
+            } else if (browser.equalsIgnoreCase("Firefox")) {
+                System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir") + "/driver/geckodriver");
+                driver = new FirefoxDriver();
+            }
+        } else if (platform.contains("Win")) {
+            if (browser.equalsIgnoreCase("Chrome")) {
+                System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\driver\\chromedriver.exe");
+                driver = new ChromeDriver();
+            } else if (browser.equalsIgnoreCase("Firefox")) {
+                System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir") + "\\driver\\geckodriver.exe");
+                driver = new FirefoxDriver();
+            }
+        }
+
 
     }
+
 
     @AfterMethod
     public void cleanUp(){
