@@ -42,11 +42,7 @@ public class CommonAPI {
                 driver = new FirefoxDriver();
             }
         }
-
-
     }
-
-
     @AfterMethod
     public void cleanUp(){
         driver.close();
