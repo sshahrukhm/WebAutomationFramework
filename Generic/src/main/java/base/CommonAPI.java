@@ -17,11 +17,13 @@ public class CommonAPI {
 
     @Parameters({"url"})
     @BeforeMethod
-    public void setUp(@Optional("https://www.hbo.com/") String url){
+    public void setUp(@Optional("https://www.hbo.com/") String url) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "/driver/chromedriver");
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.get(url);
+        driver.manage().window().maximize();
+        Thread.sleep(3000);
 
     }
 
