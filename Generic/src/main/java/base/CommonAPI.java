@@ -55,6 +55,7 @@ public class CommonAPI {
             }
         }
     }
+<<<<<<< HEAD
 
     /**
      * AfterMethod captures Screenshots with the help of 'captureScreenshot' method
@@ -64,6 +65,8 @@ public class CommonAPI {
      * @param result
      */
 
+=======
+>>>>>>> 51c591585cb14d52064349e7fed908e8420cb9fa
     @AfterMethod
     public void captureScreenshotsIfFailure(ITestResult result) {
         if (result.getStatus() == ITestResult.FAILURE) {
