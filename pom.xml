@@ -11,9 +11,8 @@
     <modules>
         <module>Generic</module>
         <module>HBO</module>
-        <module>Booking.com</module>
         <module>HomeDepot</module>
-        <module>Airbnb</module>
+        <module>Expedia</module>
     </modules>
 
     <dependencyManagement>
