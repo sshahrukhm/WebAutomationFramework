@@ -13,6 +13,7 @@
         <module>HBO</module>
         <module>HomeDepot</module>
         <module>CITI</module>
+        <module>BestBuy</module>
     </modules>
 
     <dependencyManagement>

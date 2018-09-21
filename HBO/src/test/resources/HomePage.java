@@ -177,7 +177,7 @@ public class HomePage extends CommonAPI {
         return url;
     }
 
-    // T3ALI_HP_TC07 verify logo displayed on homepage or not
+    // T3ALI_HP_TC07 verify logo displayed on testhomepage or not
     public boolean clickLogo() {
         boolean displayed = logo.isDisplayed();
         boolean enabled = logo.isEnabled();
