@@ -35,5 +35,30 @@ public class Home extends CommonAPI {
     @FindBy(how = How.CSS, using = "#.MyCart__label")
     public static WebElement cart;
 
+    @FindBy(how = How.CSS, using = "#[href='\\/b\\/Holiday-Decorations-Halloween-Decorations\\/N-5yc1vZc2ve'] img")
+    public static WebElement imgRegardingHallowin;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
