@@ -28,4 +28,7 @@ public class Home extends CommonAPI {
 
     @FindBy(how = How.CSS, using = "#.ShoppingLinks [href='\\/\\/www\\.homedepot\\.com\\/c\\/localad']")
     public static WebElement localAd;
+
+    @FindBy(how = How.CSS, using = "#headerMyAccount .SimpleFlyout__link--bold")
+    public static WebElement signIn;
 }
