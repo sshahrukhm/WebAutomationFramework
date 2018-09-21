@@ -15,5 +15,17 @@ public class Home extends CommonAPI {
     public static WebElement allDepartments;
 
     @FindBy(how = How.ID, using = "//div[@id='container']//div[@class='Header3']//ul[@class='ShoppingLinks']//a[@href='//www.homedepot.com/c/shop_by_room']")
-    public static WebElement ShopByRoom;
+    public static WebElement shopByRoom;
+
+    @FindBy(how = How.CSS, using = "#.ShoppingLinks [data-id='diyProjectsIdeas']")
+    public static WebElement diyProjectandIdeal;
+
+    @FindBy(how = How, using = "#.ShoppingLinks [data-id='homeServices']")
+    public static WebElement homeService;
+
+    @FindBy(how = How.CSS, using = "#.ShoppingLinks__link--closing']")
+    public static WebElement specialsAndOffers;
+
+    @FindBy(how = How.CSS, using = "#.ShoppingLinks [href='\\/\\/www\\.homedepot\\.com\\/c\\/localad']")
+    public static WebElement localAd;
 }
