@@ -8,13 +8,18 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.ITestResult;
-import org.testng.annotations.*;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
 
 import java.io.File;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 public class CommonAPI {
 
@@ -105,4 +110,84 @@ public class CommonAPI {
 
         }
     }
+
+    public void switchWindow(WebDriver driver) {
+
+        for (String handle : driver.getWindowHandles()) {
+
+            driver.switchTo().window(handle);
+
+        }
+    }
+
+    public void sleepFor(int sec)throws InterruptedException{
+
+        Thread.sleep(sec * 1000);
+
+    }
+    //Verify all Links in one page
+
+    // Return list of links available in the HomePage
+
+    public List<String> findNumberOfLink(List<WebElement> anchorTag) {
+
+        System.out.println(anchorTag.size());
+
+        List<String> actualLinks = new ArrayList<String>();
+
+        for (int i = 0; i < anchorTag.size(); i = i + 1) {
+
+            if (anchorTag.get(i).getText() != null && anchorTag.get(i).getText().length() > 0) {
+
+                actualLinks.add(anchorTag.get(i).getText());
+
+            }
+
+        }
+
+        for (String link : actualLinks) {
+
+            System.out.println(link);
+
+        }
+
+        return actualLinks;
+
+    }
+
+
+
+    //Get Assert Data
+
+   /* public List<String> getAssertData(String DataFilePath, int ColumnNo) throws IOException {
+
+        DataReader dtr = new DataReader();
+
+        List<String> output = Arrays.asList(dtr.colReader(DataFilePath,ColumnNo));
+
+        return output;
+
+    }
+
+    // Assert Data
+
+    public void assertData(List<String> actualList, List<String> expectedList){
+
+        for (int i = 0; i < actualList.size(); i++) {
+
+            SoftAssert softAssert = new SoftAssert();
+
+            softAssert.assertTrue(actualList.get(i).contains(expectedList.get(i)));
+
+            System.out.println("LinkVerified " + expectedList.get(i));
+
+        }
+
+    }*/
+
+
+
 }
+
+
+
