@@ -14,4 +14,6 @@ public class Home extends CommonAPI {
     @FindBy(how = How.ID, using = "//div[@id='container']//div[@class='Header3']//ul[@class='ShoppingLinks']//a[@href='//www.homedepot.com/c/site_map']")
     public static WebElement allDepartments;
 
+    @FindBy(how = How.ID, using = "//div[@id='container']//div[@class='Header3']//ul[@class='ShoppingLinks']//a[@href='//www.homedepot.com/c/shop_by_room']")
+    public static WebElement ShopByRoom;
 }
