@@ -33,6 +33,12 @@
             <artifactId>testng</artifactId>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.javafxdata</groupId>
+            <artifactId>datafx-core</artifactId>
+            <version>8.0b5</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 
