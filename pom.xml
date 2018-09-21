@@ -14,6 +14,9 @@
         <module>HomeDepot</module>
         <module>CITI</module>
         <module>BestBuy</module>
+        <module>HomeDepot</module>
+        <module>HomeDepot</module>
+        <module>HomeDepot1</module>
     </modules>
 
     <dependencyManagement>
