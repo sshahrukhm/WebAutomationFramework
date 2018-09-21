@@ -20,7 +20,7 @@ public class Home extends CommonAPI {
     @FindBy(how = How.CSS, using = "#.ShoppingLinks [data-id='diyProjectsIdeas']")
     public static WebElement diyProjectandIdeal;
 
-    @FindBy(how = How, using = "#.ShoppingLinks [data-id='homeServices']")
+    @FindBy(how = How.CSS, using = "#.ShoppingLinks [data-id='homeServices']")
     public static WebElement homeService;
 
     @FindBy(how = How.CSS, using = "#.ShoppingLinks__link--closing']")
