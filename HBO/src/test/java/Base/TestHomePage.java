@@ -1,0 +1,23 @@
+package Base;
+
+import base.CommonAPI;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.testng.annotations.Test;
+import pages.HomePage;
+
+import java.util.concurrent.TimeUnit;
+
+
+public class TestHomePage extends HomePage{
+
+    @Test
+    public void clickOnMyAccountButton() {
+        super.clickOnMyAccountButton();
+    }
+
+    @Test
+    public void search() {
+        super.search();
+    }
+}

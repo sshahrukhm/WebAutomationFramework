@@ -1,6 +1,42 @@
 package base;
 
-import org.apache.commons.io.FileUtils;
+
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+
+import java.util.concurrent.TimeUnit;
+
+public class CommonAPI {
+
+    public WebDriver driver = null;
+    @BeforeMethod
+    public void setUp() throws InterruptedException {
+
+        System.setProperty("webdriver.chrome.driver", "/Users/kbmsiddique/Desktop/peopleProject/Generic/browser-driver/chromedriver");
+        driver = new ChromeDriver();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.get("https://www.hbo.com/");
+        driver.manage().window().maximize();
+        Thread.sleep(4000);
+
+
+    }
+
+    @AfterMethod
+    public void cleanUp() {
+        driver.close();
+    }
+
+}
+
+
+/*import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -21,7 +57,9 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class CommonAPI {
+
+
+/*public class CommonAPI {
 
     public WebDriver driver;
 
@@ -39,7 +77,7 @@ public class CommonAPI {
      * @param url
      */
 
-    @BeforeClass
+    /*@BeforeClass
     @Parameters({"platform", "browser", "url"})
     public void setUp(String platform, String browser, String url) {
         localDriver(platform, browser);
@@ -75,7 +113,7 @@ public class CommonAPI {
      * @param result
      */
 
-    @AfterMethod
+    /*@AfterMethod
     public void captureScreenshotsIfFailure(ITestResult result) {
         if (result.getStatus() == ITestResult.FAILURE) {
             captureScreenshot(result.getName());
@@ -187,7 +225,7 @@ public class CommonAPI {
 
 
 
-}
+
 
 
 
