@@ -38,6 +38,10 @@ public class Home extends CommonAPI {
     @FindBy(how = How.CSS, using = "#[href='\\/b\\/Holiday-Decorations-Halloween-Decorations\\/N-5yc1vZc2ve'] img")
     public static WebElement imgRegardingHallowin;
 
+    @FindBy(how = How.CSS,using = "[href='https\\:\\/\\/www\\.redcross\\.org\\/donate\\/cm\\/homedepot-pub\\.html\\/'] img")
+    public static WebElement donateNowTab;
+
+
 
 
 
