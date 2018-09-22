@@ -251,11 +251,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="22" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
@@ -267,7 +267,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -339,7 +339,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="188" />
     <option name="y" value="23" />
     <option name="width" value="1245" />
@@ -476,7 +476,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537582619698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537585611507" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -658,7 +658,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="188" y="23" width="1245" height="823" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2560266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -669,12 +668,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22845417" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22845417" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003595" side_tool="true" weight="0.32831737" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49964055" weight="0.32831737" />
@@ -892,20 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -914,6 +899,20 @@
             <element signature="imports" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#531#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
