@@ -5,7 +5,7 @@ package base;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+//import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -18,17 +18,17 @@ public class CommonAPI {
     @BeforeMethod
     public void setUp() throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver", "/Users/kbmsiddique/Desktop/peopleProject/Generic/browser-driver/chromedriver");
-        driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.get("https://www.hbo.com/");
+        System.setProperty("webdriver.gecko.driver", "C:\\Users\\emdad\\IdeaProjects\\FarzadSeleniumWork\\Framework\\Generic\\browser-driver\\windows\\geckodriver.exe");
+        driver = new FirefoxDriver();//div[@id='con1_home_rr']//div[@class='carousel__stage']/div[1]//a[@href='//www.homedepot.com/b/Appliances-Refrigerators/N-5yc1vZc3pi?MERCH=CON1-_-con1_home_rr-_-bd69431f-3ef7-46a3-b709-1f00a7f7e3ee-_-N']xDriver();//div[@id='con1_home_rr']//div[@class='carousel__stage']/div[1]//a[@href='//www.homedepot.com/b/Appliances-Refrigerators/N-5yc1vZc3pi?MERCH=CON1-_-con1_home_rr-_-bd69431f-3ef7-46a3-b709-1f00a7f7e3ee-_-N']iver();
+        //driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.get("https://www.homedepot.com/");
         driver.manage().window().maximize();
         Thread.sleep(4000);
 
 
-    }
+    }}
 
-    @AfterMethod
+   /* @AfterMethod
     public void cleanUp() {
         driver.close();
     }
