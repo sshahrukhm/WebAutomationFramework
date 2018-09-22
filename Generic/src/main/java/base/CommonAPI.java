@@ -1,12 +1,10 @@
 package base;
 
-
-
 import com.beust.jcommander.Parameter;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-//import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.*;
 
@@ -15,19 +13,18 @@ import java.util.concurrent.TimeUnit;
 public class CommonAPI {
 
     public WebDriver driver = null;
+
     @BeforeMethod
     public void setUp() throws InterruptedException {
-<<<<<<< HEAD
 
-        System.setProperty("webdriver.gecko.driver", "C:\\Users\\emdad\\IdeaProjects\\FarzadSeleniumWork\\Framework\\Generic\\browser-driver\\windows\\geckodriver.exe");
-        driver = new FirefoxDriver();//div[@id='con1_home_rr']//div[@class='carousel__stage']/div[1]//a[@href='//www.homedepot.com/b/Appliances-Refrigerators/N-5yc1vZc3pi?MERCH=CON1-_-con1_home_rr-_-bd69431f-3ef7-46a3-b709-1f00a7f7e3ee-_-N']xDriver();//div[@id='con1_home_rr']//div[@class='carousel__stage']/div[1]//a[@href='//www.homedepot.com/b/Appliances-Refrigerators/N-5yc1vZc3pi?MERCH=CON1-_-con1_home_rr-_-bd69431f-3ef7-46a3-b709-1f00a7f7e3ee-_-N']iver();
-        //driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-        driver.get("https://www.homedepot.com/");
+        System.setProperty("webdriver.chrome.driver", "C:\\MyFiles\\Develop\\AutomationFramework\\Framework\\Generic\\browser-driver\\windows\\chromedriver.exe");
+        driver = new ChromeDriver();
+        driver.get("https://www.bestbuy.com/");
         driver.manage().window().maximize();
         Thread.sleep(4000);
 
-
-    }}
+    }
+}
 
    /* @AfterMethod
 =======
