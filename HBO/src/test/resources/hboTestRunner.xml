@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Amazon e-commerce" parallel="tests">
+<suite name="HBO" parallel="tests">
 
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="userName" value="rahmanww"/>
@@ -10,7 +10,7 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="firefox"/>
     <parameter name="browserVersion" value="43"/>
-    <parameter name="url" value="http://www.amazon.com"/>
+    <parameter name="url" value="http://www.hbo.com"/>
 
     <test name = "Amazon Search">
         <classes>

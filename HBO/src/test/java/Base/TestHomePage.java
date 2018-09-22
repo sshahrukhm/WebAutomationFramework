@@ -12,8 +12,8 @@ import java.util.concurrent.TimeUnit;
 public class TestHomePage extends HomePage{
 
     @Test
-    public void clickOnMyAccountButton() {
-        super.clickOnMyAccountButton();
+    public void click() {
+        super.click();
     }
 
     @Test

@@ -11,6 +11,7 @@
       <set>
         <option value="$PROJECT_DIR$/Airbnb/pom.xml" />
         <option value="$PROJECT_DIR$/Booking.com/pom.xml" />
+        <option value="$PROJECT_DIR$/CITI/pom.xml" />
         <option value="$PROJECT_DIR$/HBO/HomeDepot1/pom.xml" />
         <option value="$PROJECT_DIR$/HomeDepot/pom.xml" />
       </set>

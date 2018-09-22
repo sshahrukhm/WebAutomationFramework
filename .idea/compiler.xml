@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BestBuy" />
-        <module name="CITI" />
         <module name="Expedia" />
         <module name="Generic" />
         <module name="HomeDepot" />
@@ -17,6 +16,8 @@
     <bytecodeTargetLevel>
       <module name="Airbnb" target="1.5" />
       <module name="Booking.com" target="1.5" />
+      <module name="CITI" target="1.5" />
+      <module name="HBO (1)" target="1.5" />
       <module name="HomeDepot" target="1.5" />
     </bytecodeTargetLevel>
   </component>
