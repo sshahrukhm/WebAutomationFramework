@@ -1,4 +1,4 @@
-package base;
+package pages;
 
 import base.CommonAPI;
 import org.openqa.selenium.By;

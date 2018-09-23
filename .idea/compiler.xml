@@ -9,7 +9,11 @@
         <module name="BestBuy" />
         <module name="Expedia" />
         <module name="Generic" />
-        <module name="HomeDepot" />
+      </profile>
+      <profile name="Annotation profile for hybrid-framework" enabled="true">
+        <sourceOutputDir name="../HBO/HomeDepot1/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../HBO/HomeDepot1/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="HomeDepot1" />
       </profile>
     </annotationProcessing>

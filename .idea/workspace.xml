@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/src/main/java/base/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/base/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/src/main/java/base/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/java/search/InputHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/search/InputHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -105,33 +104,34 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="12" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="XML" value="3" />
+          <entry key="JAVA" value="12" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="66" />
-          <entry key="xml" value="10" />
+          <entry key="java" value="69" />
+          <entry key="xml" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="66" />
-          <entry key="XML" value="10" />
+          <entry key="JAVA" value="69" />
+          <entry key="XML" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -270,36 +270,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/base/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java">
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="289">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -348,6 +324,8 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
+        <option value="$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java" />
       </list>
     </option>
   </component>
@@ -394,6 +372,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -435,7 +414,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
@@ -461,15 +440,22 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537597891654" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537723053962" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -502,6 +488,16 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.HomePageTest">
+    <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BestBuy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetHome.addToCart" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <properties />
       <listeners />
@@ -510,13 +506,6 @@
       </method>
     </configuration>
     <configuration name="GetHome.myAccount" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetHome.search" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <properties />
       <listeners />
       <method v="2">
@@ -534,12 +523,12 @@
       <module name="BestBuy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="search" />
-      <option name="MAIN_CLASS_NAME" value="search.HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.HomePageTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -547,15 +536,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.GetHome.search" />
       <item itemvalue="TestNG.GetHome.addToCart" />
       <item itemvalue="TestNG.GetHome.myAccount" />
       <item itemvalue="TestNG.GetHome.selectDropDown" />
       <item itemvalue="TestNG.HomePageTest" />
+      <item itemvalue="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -573,12 +563,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetHome - 2018.09.21 at 22h 57m 43s.xml">
-      <configuration name="GetHome" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetHome_search - 2018.09.22 at 00h 42m 29s.xml">
-      <configuration name="GetHome.search" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="GetHome_myAccount - 2018.09.22 at 00h 53m 14s.xml">
       <configuration name="GetHome.myAccount" configurationId="TestNG" />
     </history-entry>
@@ -601,8 +585,6 @@
       <configuration name="GetHome.myAccount" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GetHome_myAccount - 2018.09.22 at 01h 43m 16s.xml" />
-    <configuration name="GetHome.myAccount" configurationId="TestNG" />
-    =======
     <history-entry file="TestSearchPage - 2018.09.21 at 21h 18m 49s.xml">
       <configuration name="TestSearchPage" configurationId="TestNG" />
     </history-entry>
@@ -632,13 +614,18 @@
     </history-entry>
     <history-entry file="TestHomePage - 2018.09.21 at 22h 14m 25s.xml">
       <configuration name="TestHomePage" configurationId="TestNG" />
-      &gt;&gt;&gt;&gt;&gt;&gt;&gt; 79350ae3841ea048ca52cdb2f742297a29175a64
+    </history-entry>
+    <history-entry file="C__MyFiles_Develop_AutomationFramework_Framework_BestBuy_src_test_resources_BestBuyTestRunner_xml - 2018.09.22 at 16h 31m 15s.xml">
+      <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.09.22 at 16h 38m 13s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -647,7 +634,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -744,13 +731,6 @@
     <entry file="file://$PROJECT_DIR$/BestBuy/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1298">
@@ -841,9 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#1504#1505#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,30 +865,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/base/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="561">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

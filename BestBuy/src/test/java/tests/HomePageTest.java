@@ -1,9 +1,7 @@
-package search;
+package tests;
 
 import org.testng.annotations.Test;
-import base.HomePage;
-
-import java.sql.Driver;
+import pages.HomePage;
 
 public class HomePageTest extends HomePage {
 

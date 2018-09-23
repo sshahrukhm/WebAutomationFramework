@@ -1,8 +1,6 @@
-package search;
+package tests;
 
 import org.testng.annotations.Test;
-import base.CommonAPI;
-import base.HomePage;
 
 
 public class InputHome {
