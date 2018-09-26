@@ -1,7 +1,5 @@
 package base;
 
-
-
 import com.beust.jcommander.Parameter;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -15,8 +13,21 @@ import java.util.concurrent.TimeUnit;
 public class CommonAPI {
 
     public WebDriver driver = null;
+
     @BeforeMethod
     public void setUp() throws InterruptedException {
+
+        System.setProperty("webdriver.chrome.driver", "C:\\MyFiles\\Develop\\AutomationFramework\\Framework\\Generic\\browser-driver\\windows\\chromedriver.exe");
+        driver = new ChromeDriver();
+        driver.get("https://www.bestbuy.com/");
+        driver.manage().window().maximize();
+        Thread.sleep(4000);
+
+    }
+}
+
+   /* @AfterMethod
+=======
         System.setProperty("webdriver.chrome.driver", "/Users/kbmsiddique/Desktop/peopleProject/Generic/browser-driver/chromedriver");
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -26,6 +37,7 @@ public class CommonAPI {
     }
     @AfterMethod
 
+>>>>>>> 79350ae3841ea048ca52cdb2f742297a29175a64
     public void cleanUp() {
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.close();

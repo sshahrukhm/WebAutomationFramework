@@ -13,8 +13,11 @@ public class HomePage extends CommonAPI {
         driver.manage().timeouts().setScriptTimeout(20, TimeUnit.SECONDS);
     }
     public void search() {
-        driver.findElement(By.id("headerSearch")).sendKeys("outlet", Keys.ENTER);
+        driver.findElement(By.id("headerSearch")).sendKeys("Game", Keys.ENTER);
     }
-
+    public void movie() {
+        driver.findElement(By.xpath("//a[contains(@text(),'Movies')]")).click();
+        driver.manage().timeouts().setScriptTimeout(20, TimeUnit.SECONDS);
+    }
 
 }

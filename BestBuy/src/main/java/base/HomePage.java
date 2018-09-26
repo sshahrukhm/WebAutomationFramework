@@ -1,96 +1,50 @@
 package base;
 
 import base.CommonAPI;
+import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import reporting.TestLogger;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.Alert;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
+import java.sql.Driver;
+import java.util.concurrent.TimeUnit;
 
 public class HomePage extends CommonAPI {
-    @FindBy(how = How.CSS, using = "#gh-ac")
-    public static WebElement searchInputWebElement;
 
-    @FindBy(how = How.CSS, using = "#gh-btn")
-    public static WebElement submitButtonWebElement;
+//    static WebDriverWait wait = new WebDriverWait(Driver, 15, 1000);
+//
+//    public static void closePopUp(){
+//        WebElement closeButton = wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector(".email-submission-model .model-header button.close")));
+//    }
 
-    public WebElement getSearchInputWebElement() {
-        TestLogger.log(getClass().getSimpleName() + ":" + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        return searchInputWebElement;
+    //    public void cancelPopUp(){
+//        driver.switchTo().alert().dismiss();
+//        driver.switchTo().frame("modal-content").findElement(By.xpath("//span['aria-hidden='true']").className("close")).click();
+//    }
+    public void Account() {
+        driver.findElement(By.cssSelector("#hf_accountMenuLink")).click();
+        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
-    public WebElement getSubmitButtonWebElement() {
-        TestLogger.log(getClass().getSimpleName() + ":" + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        return submitButtonWebElement;
+    public void ShoppingHistory() {
+        driver.findElement(By.cssSelector("#hf_historyMenuLink")).click();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     }
-    public void serachFor(String value) {
-        TestLogger.log(getClass().getSimpleName() + ":" + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        getSearchInputWebElement().sendKeys(value);
+    public void OrderStatus() {
+        driver.findElement(By.cssSelector("#hf_orderStatusMenuLink")).click();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     }
-    public void submitSearchButton() {
-        TestLogger.log(getClass().getSimpleName() + ":" + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        getSubmitButtonWebElement().click();
+    public void SavedItems() {
+        driver.findElement(By.cssSelector("#hf_listsMenuLink")).click();
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     }
-    public void clearInput() {
-        TestLogger.log(getClass().getSimpleName() + ":" + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        getSearchInputWebElement().clear();
-    }
-    public List<String> getMenuData() {
-        List<String> data = new ArrayList<String>();
-        data.add("Note 8");
-        data.add("Pen");
-        data.add("Watch");
-        return data;
-    }
-    public void searchItemsAndSubmitButton() throws IOException {
-        //TestLogger.log(getClass().getSimpleName()+":" + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        List<String> list = getItemValue();
-        for (int i = 0; i < list.size(); i++) {
-            serachFor(list.get(i));
-            submitSearchButton();
-            clearInput();
-        }
-    }
-
-    public WebElement getSearchInputField() {
-        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        return searchInputWebElement;
-    }
-    public void setSearchInputField(WebElement searchInputField) {
-        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        this.searchInputWebElement = searchInputField;
-    }
-    public void searchItems() throws InterruptedException {
-        List<String> itemList = getItemValue();
-        for (String st : itemList) {
-            getSearchInputField().sendKeys(st, Keys.ENTER);
-            getSearchInputField().clear();
-        }
-    }
-    public List<String> getItemValue() {
-        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object() {
-        }.getClass().getEnclosingMethod().getName()));
-        List<String> itemsList = new ArrayList<String>();
-        itemsList.add("smart tv");
-        itemsList.add("smartwatch");
-        itemsList.add("smartphone");
-        itemsList.add("laptop");
-        itemsList.add("desktop computer");
-        itemsList.add("headphone");
-        itemsList.add("camera");
-        itemsList.add("ps4games");
-        itemsList.add("macAir");
-
-        return itemsList;
+    public void search() {
+        driver.findElement(By.cssSelector("[placeholder='Search Best Buy']")).sendKeys("smart tv", Keys.ENTER);
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     }
 }
