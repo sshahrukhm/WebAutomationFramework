@@ -9,6 +9,7 @@
         <module name="BestBuy" />
         <module name="Expedia" />
         <module name="Generic" />
+        <module name="HBO" />
       </profile>
       <profile name="Annotation profile for hybrid-framework" enabled="true">
         <sourceOutputDir name="../HBO/HomeDepot1/target/generated-sources/annotations" />
