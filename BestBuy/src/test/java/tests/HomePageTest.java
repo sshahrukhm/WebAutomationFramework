@@ -5,13 +5,6 @@ import pages.HomePage;
 
 public class HomePageTest extends HomePage {
 
-    // @Test
-//    public void testSignIn()throws InterruptedException{
-//        driver.get("http://bestbuy.com");
-//        methods.MainBestBuy.closePopUp();
-//        methods.MainBestBuy.signInButton();
-//        methods.MainBestBuy.signIn();
-//    }
     @Test
     public void Account() {
         super.Account();
@@ -31,5 +24,9 @@ public class HomePageTest extends HomePage {
     @Test
     public void search() {
         super.search();
+    }
+    @Test
+    public void title(){
+        super.title();
     }
 }

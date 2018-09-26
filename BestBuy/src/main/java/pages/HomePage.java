@@ -3,48 +3,47 @@ package pages;
 import base.CommonAPI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.support.How;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.sql.Driver;
 import java.util.concurrent.TimeUnit;
 
 public class HomePage extends CommonAPI {
 
-//    static WebDriverWait wait = new WebDriverWait(Driver, 15, 1000);
-//
-//    public static void closePopUp(){
-//        WebElement closeButton = wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector(".email-submission-model .model-header button.close")));
-//    }
-
-    //    public void cancelPopUp(){
-//        driver.switchTo().alert().dismiss();
-//        driver.switchTo().frame("modal-content").findElement(By.xpath("//span['aria-hidden='true']").className("close")).click();
-//    }
+    public void title(){
+        System.out.println(driver.getTitle());
+    }
     public void Account() {
         driver.findElement(By.cssSelector("#hf_accountMenuLink")).click();
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        String AccountPage = driver.findElement(By.xpath("//*[@id=\"account-menu-app\"]/div/div[2]/div/div/a/button")).getText();
+        if (AccountPage.equalsIgnoreCase("Sign In")){
+            System.out.println("Sign In is displayed");
+        }
+        else System.out.println("Sign In is not displayed");
     }
     public void ShoppingHistory() {
         driver.findElement(By.cssSelector("#hf_historyMenuLink")).click();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        String ShoppingHistory = driver.findElement(By.cssSelector(".nav-carousel-header-content span")).getText();
+        if (ShoppingHistory.equalsIgnoreCase("Shopping History")){
+            System.out.println("Shopping History is displayed");
+        }
+        else System.out.println("Shopping History is not displayed");
     }
     public void OrderStatus() {
         driver.findElement(By.cssSelector("#hf_orderStatusMenuLink")).click();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        String OrderStatus = driver.findElement(By.cssSelector("[href] .btn-secondary")).getText();
+        if (OrderStatus.equalsIgnoreCase("Continue")){
+            System.out.println("Continue Button is displayed");
+        }
+        else System.out.println("Continue Button is not displayed");
     }
     public void SavedItems() {
         driver.findElement(By.cssSelector("#hf_listsMenuLink")).click();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
     public void search() {
         driver.findElement(By.cssSelector("[placeholder='Search Best Buy']")).sendKeys("smart tv", Keys.ENTER);
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
 }
