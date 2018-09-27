@@ -8,7 +8,7 @@
     <parameter name="os_version" value="10"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="60.0"/>
-    <parameter name="url" value="https://www.bestbuy.com//"/>
+    <parameter name="url" value="https://www.geico.com//"/>
 
     <test name="Search Items">
         <classes>
