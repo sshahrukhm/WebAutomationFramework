@@ -30,7 +30,7 @@ public class CommonAPI {
         driver = new ChromeDriver();
         driver.get("https://www.geico.com/");
         driver.manage().window().maximize();
-        Thread.sleep(4000);
+        Thread.sleep(2000);
     }
     @AfterMethod
     public void end() throws InterruptedException {
