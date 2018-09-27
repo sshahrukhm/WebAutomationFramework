@@ -80,7 +80,7 @@ public class InsuranceProducts extends CommonAPI {
     }
 
     public void clickOnUmbrellaInsurance() throws NullPointerException {
-        boatInsuranceIcon.click();
+        umbrellaInsuranceIcon.click();
         submitButton.click();
     }
 
