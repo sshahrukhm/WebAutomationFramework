@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/BestBuy/target/classes/base/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestBuy/target/test-classes/search/HomePageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BestBuy/target/test-classes/search/InputHome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeDepot1/src/test/java/testHome/GetHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeDepot1/src/test/resources/HomeDepot1TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeDepot1/target/classes/base/Home.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeDepot1/target/test-classes/HomeDepot1TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeDepot1/target/test-classes/testHome/GetHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/java/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/tests/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/target/BestBuy-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/BestBuy-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/src/test/java/Base/TestSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/src/test/java/Base/TestSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/target/classes/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/classes/pages/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/target/test-classes/Base/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/test-classes/Base/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/target/test-classes/Base/TestSearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/test-classes/Base/TestSearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeDepot/HomeDepot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeDepot/HomeDepot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeDepot1/src/main/java/base/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeDepot1/src/main/java/base/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeDepot1/src/test/java/get/HomePage.java" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/target/HBO-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/HBO-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HBO/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/maven-archiver/pom.properties" afterDir="false" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -206,31 +245,34 @@
     <session id="1823380480">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="26" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="26" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="597" />
+          <entry key="java" value="650" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="597" />
+          <entry key="JAVA" value="650" />
           <entry key="XML" value="8" />
         </counts>
       </usages-collector>
@@ -273,12 +315,26 @@
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/pages/InsuranceProducts.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="238">
               <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+=======
+            <state relative-caret-position="187">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3492#3493#0" expanded="true" />
@@ -289,7 +345,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/tests/InsuranceProductsTest.java">
+=======
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/tests/HomePageTest.java">
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
@@ -324,11 +390,13 @@
                 <element signature="e#1857#1858#0" expanded="true" />
                 <element signature="e#1900#1901#0" expanded="true" />
               </folding>
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentReporterNG.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -336,11 +404,25 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+=======
+        <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -354,6 +436,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+=======
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/HBO/src/test/java/Base/TestSearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -436,20 +531,25 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java" />
         <option value="$PROJECT_DIR$/HBO/src/test/java/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/HomeDepot1/src/test/resources/HomeDepot1TestRunner.xml" />
         <option value="$PROJECT_DIR$/HomeDepot1/src/test/java/testHome/GetHome.java" />
         <option value="$PROJECT_DIR$/HomeDepot1/src/main/java/base/Home.java" />
         <option value="$PROJECT_DIR$/HomeDepot1/src/main/java/base/Home.java" />
         <option value="$PROJECT_DIR$/HBO/src/test/java/TestHomePage.java" />
-        <option value="$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/HBO/src/test/java/Base/SearchPage.java" />
         <option value="$PROJECT_DIR$/HBO/src/test/resources/hboTestRunner.xml" />
         <option value="$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java" />
         <option value="$PROJECT_DIR$/HBO/HBO/pom.xml" />
         <option value="$PROJECT_DIR$/HBO/HomeDepot1/pom.xml" />
         <option value="$PROJECT_DIR$/HBO/src/test/java/Base/TestSearchPage.java" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java" />
+=======
         <option value="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
@@ -476,8 +576,13 @@
         <option value="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/GEICO/src/main/java/pages/InsuranceProducts.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/tests/InsuranceProductsTest.java" />
+=======
+        <option value="$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       </list>
     </option>
   </component>
@@ -504,12 +609,19 @@
       <select />
     </treeState>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
+=======
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="1750" />
     <option name="height" value="970" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -526,6 +638,8 @@
               <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Framework" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
             <path>
               <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Framework" type="462c0819:PsiDirectoryNode" />
@@ -628,14 +742,28 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="reporting" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537984087964" />
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538010228696" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537943536549" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -668,11 +796,23 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml">
     <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GEICO" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" />
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="TestNG.TestHomePage.movie">
+    <configuration name="GetHome.addToCart" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml">
+    <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BestBuy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       <option name="TEST_OBJECT" value="SUITE" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
       <properties />
       <listeners />
       <method v="2">
@@ -697,6 +837,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="InsuranceProductsTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GEICO" />
       <extension name="coverage">
@@ -707,12 +848,18 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.InsuranceProductsTest" />
+=======
+<<<<<<< HEAD
+=======
+    <configuration name="GetHome.myAccount" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="InsuranceProductsTest.testHomeOwnerInsuranceIconClick" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GEICO" />
       <extension name="coverage">
@@ -725,6 +872,10 @@
       <option name="MAIN_CLASS_NAME" value="tests.InsuranceProductsTest" />
       <option name="METHOD_NAME" value="testHomeOwnerInsuranceIconClick" />
       <option name="TEST_OBJECT" value="METHOD" />
+=======
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+    <configuration name="GetHome.selectDropDown" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       <properties />
       <listeners />
       <method v="2">
@@ -749,7 +900,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestHomePage.movie" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Base" />
+      <option name="MAIN_CLASS_NAME" value="Base.TestHomePage" />
+      <option name="METHOD_NAME" value="movie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="TestNG.HomePageTest.Account" />
       <item itemvalue="TestNG.InsuranceProductsTest" />
       <item itemvalue="TestNG.InsuranceProductsTest.testHomeOwnerInsuranceIconClick" />
@@ -763,6 +933,26 @@
         <item itemvalue="TestNG.InsuranceProductsTest.testHomeOwnerInsuranceIconClick" />
         <item itemvalue="TestNG.InsuranceProductsTest" />
         <item itemvalue="TestNG.HomePageTest.Account" />
+=======
+      <item itemvalue="TestNG.GetHome.addToCart" />
+      <item itemvalue="TestNG.GetHome.myAccount" />
+      <item itemvalue="TestNG.GetHome.selectDropDown" />
+      <item itemvalue="TestNG.HomePageTest" />
+<<<<<<< HEAD
+      <item itemvalue="TestNG.TestHomePage.movie" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestHomePage.movie" />
+=======
+      <item itemvalue="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+        <item itemvalue="TestNG.HomePageTest" />
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       </list>
     </recent_temporary>
   </component>
@@ -780,6 +970,75 @@
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <history-entry file="GetHome_selectDropDown - 2018.09.22 at 01h 36m 36s.xml">
+      <configuration name="GetHome.selectDropDown" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetHome_myAccount - 2018.09.22 at 01h 37m 17s.xml">
+      <configuration name="GetHome.myAccount" configurationId="TestNG" />
+    </history-entry>
+=======
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+    <history-entry file="GetHome_myAccount - 2018.09.22 at 01h 38m 14s.xml">
+      <configuration name="GetHome.myAccount" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetHome_myAccount - 2018.09.22 at 01h 40m 54s.xml">
+      <configuration name="GetHome.myAccount" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetHome_myAccount - 2018.09.22 at 01h 43m 16s.xml" />
+    <history-entry file="TestSearchPage - 2018.09.21 at 21h 18m 49s.xml">
+      <configuration name="TestSearchPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSearchPage_search - 2018.09.21 at 21h 20m 17s.xml">
+      <configuration name="TestSearchPage.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSearchPage - 2018.09.21 at 21h 24m 52s.xml">
+      <configuration name="TestSearchPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSearchPage - 2018.09.21 at 21h 29m 09s.xml">
+      <configuration name="TestSearchPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSearchPage_click - 2018.09.21 at 21h 34m 56s.xml">
+      <configuration name="TestSearchPage.click" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSearchPage - 2018.09.21 at 21h 39m 58s.xml">
+      <configuration name="TestSearchPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_search - 2018.09.21 at 21h 43m 30s.xml">
+      <configuration name="TestHomePage.search" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage - 2018.09.21 at 21h 50m 13s.xml">
+      <configuration name="TestHomePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSearchPage - 2018.09.21 at 22h 10m 37s.xml">
+      <configuration name="TestSearchPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage - 2018.09.21 at 22h 14m 25s.xml">
+      <configuration name="TestHomePage" configurationId="TestNG" />
+    </history-entry>
+<<<<<<< HEAD
+    <history-entry file="TestHomePage_movie - 2018.09.22 at 10h 31m 11s.xml">
+      <configuration name="TestHomePage.movie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_movie - 2018.09.22 at 10h 31m 49s.xml">
+      <configuration name="TestHomePage.movie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_movie - 2018.09.22 at 10h 38m 16s.xml">
+      <configuration name="TestHomePage.movie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_movie - 2018.09.22 at 11h 53m 19s.xml">
+      <configuration name="TestHomePage.movie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_movie - 2018.09.22 at 11h 54m 37s.xml">
+      <configuration name="TestHomePage.movie" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="825" extended-state="1" />
+=======
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
     <history-entry file="C__MyFiles_Develop_AutomationFramework_Framework_BestBuy_src_test_resources_BestBuyTestRunner_xml - 2018.09.22 at 16h 31m 15s.xml">
       <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -842,9 +1101,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+=======
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+    <editor active="true" />
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2453505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -852,16 +1117,30 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32742155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22721088" />
+=======
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2266289" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22804533" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003595" side_tool="true" weight="0.32831737" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49964055" weight="0.32719547" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49964055" weight="0.3265306" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -906,6 +1185,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/HBO/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+=======
     <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -917,17 +1202,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/reflect/Method.java" />
-    <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.14.0/selenium-firefox-driver-3.14.0.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
@@ -950,6 +1229,14 @@
     <entry file="file://$PROJECT_DIR$/HomeDepot1/src/test/resources/HomeDepot1TestRunner.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.14.0/selenium-firefox-driver-3.14.0-sources.jar!/org/openqa/selenium/firefox/FirefoxDriver.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="221">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeDepot1/src/main/java/base/Home.java">
+=======
         <state>
           <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
         </state>
@@ -1002,6 +1289,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -1071,7 +1359,36 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
+=======
+<<<<<<< HEAD
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.14.0/selenium-firefox-driver-3.14.0-sources.jar!/org/openqa/selenium/firefox/FirefoxDriver.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/java/search/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/base/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-251">
           <caret line="487" selection-start-line="487" selection-end-line="487" />
@@ -1224,6 +1541,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/pages/InsuranceProducts.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="238">
           <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
           <folding>
@@ -1231,13 +1549,34 @@
             <element signature="e#3492#3493#0" expanded="true" />
             <element signature="e#3526#3527#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="-12">
+          <caret line="281" column="31" selection-start-line="281" selection-start-column="31" selection-end-line="281" selection-end-column="31" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+    <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBO/src/test/java/Base/TestSearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+=======
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+=======
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1246,6 +1585,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1156">
           <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
         </state>
@@ -1255,6 +1595,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+=======
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#271#292#0" expanded="true" />
@@ -1264,7 +1609,24 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentReporterNG.java">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+=======
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml">
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
@@ -1276,6 +1638,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="374">
           <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
@@ -1288,6 +1651,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+=======
+        <state relative-caret-position="187">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+>>>>>>> 20795181c858c8623062c3152bdf6508291bb0e7
+>>>>>>> 832a36113b8b20720c25f1ec57ea6c7e57b11823
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />

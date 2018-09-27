@@ -1,5 +1,4 @@
 package Base;
-
 import org.testng.annotations.Test;
 import pages.SearchPage;
 
