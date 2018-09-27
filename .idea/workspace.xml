@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -640,7 +635,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538010028550" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538010228696" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -785,9 +780,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage - 2018.09.21 at 22h 14m 25s.xml">
-      <configuration name="TestHomePage" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__MyFiles_Develop_AutomationFramework_Framework_BestBuy_src_test_resources_BestBuyTestRunner_xml - 2018.09.22 at 16h 31m 15s.xml">
       <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/BestBuy/src/test/resources/BestBuyTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -845,10 +837,12 @@
     <history-entry file="C__MyFiles_Develop_AutomationFramework_Framework_GEICO_src_test_resources_GEICORunner_xml - 2018.09.26 at 20h 56m 18s.xml">
       <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__MyFiles_Develop_AutomationFramework_Framework_GEICO_src_test_resources_GEICORunner_xml - 2018.09.26 at 21h 00m 40s.xml">
+      <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24630873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -859,12 +853,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22695035" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2266289" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003595" side_tool="true" weight="0.32831737" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49964055" weight="0.32719547" />
