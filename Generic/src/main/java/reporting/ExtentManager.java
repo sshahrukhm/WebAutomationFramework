@@ -17,12 +17,11 @@ public class ExtentManager {
             extent = new ExtentReports(System.getProperty("user.dir")+"/extent-report/ExtentReport.html", true);
             Reporter.log("Extent Report Directory"+ resultDirectory, true);
             extent.addSystemInfo("Host Name", "SeleniumLab").addSystemInfo("Environment","QA")
-                    .addSystemInfo("User Name", "SeleniumLab");
-            extent.loadConfig(new File(System.getProperty("user.dir")+ "/report-config.xml"));
+                    .addSystemInfo("User Name", "Shaikh Muhammad");
+            //extent.loadConfig(new File(System.getProperty("user.dir")+ "/report-config.xml"));
         }
         return extent;
     }
-
     public static void setOutputDirectory(ITestContext context){
         ExtentManager.context = context;
 

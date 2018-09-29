@@ -18,6 +18,7 @@ public class InsuranceProducts extends CommonAPI {
     public static WebElement login;
     @FindBy(css = "#header-right-links > ul > li:nth-child(3) > a > span")
     public static WebElement searchIcon;
+
     @FindBy(how = How.CSS, using = "#submitButton")
     public static WebElement submitButton;
     @FindBy(how = How.ID, using = "zip")

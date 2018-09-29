@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="GEICO API Automation Script " parallel="false">
+<suite name="GEICO Automation Script " parallel="false">
 
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
@@ -10,9 +10,25 @@
     <parameter name="browserVersion" value="60.0"/>
     <parameter name="url" value="https://www.geico.com//"/>
 
-    <test name="Search Items">
+    <test name = "Pages Test">
         <classes>
+            <class name="tests.DropDownTest"/>
+            <class name="tests.GetQuoteTest"/>
             <class name="tests.InsuranceProductsTest"/>
+            <class name ="tests.NavigationBarTest" />
+            <class name="tests.SearchTest"/>
+        </classes>
+    </test>
+    <test name="DataDriven Test">
+        <classes>
+            <class name="datadriventest.InformationAndInsuranceHoverTest"/>
+            <class name="datadriventest.LoginTest"/>
+            <class name="datadriventest.GoogleSheetTest"/>
+        </classes>
+    </test>
+    <test name ="ScreenShot test">
+        <classes>
+            <class name="screenshottests.ScreenShotTest"/>
         </classes>
     </test>
 </suite>
