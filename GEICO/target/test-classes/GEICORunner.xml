@@ -12,17 +12,17 @@
 
     <test name = "Pages Test">
         <classes>
-            <class name="tests.DropDownTest"/>
-            <class name="tests.GetQuoteTest"/>
-            <class name="tests.InsuranceProductsTest"/>
-            <class name ="tests.NavigationBarTest" />
-            <class name="tests.SearchTest"/>
+            <class name="homepage.DropDownTest"/>
+            <class name="autoinsurancepackagetest.GetQuoteTest"/>
+            <class name="homepage.InsuranceProductsTest"/>
+            <class name ="navigationtest.NavigationBarTest" />
+            <class name="homepage.SearchTest"/>
         </classes>
     </test>
     <test name="DataDriven Test">
         <classes>
-            <class name="datadriventest.InformationAndInsuranceHoverTest"/>
-            <class name="datadriventest.LoginTest"/>
+            <class name="navigationtest.InformationAndInsuranceHoverTest"/>
+            <class name="homepage.LoginTest"/>
             <class name="datadriventest.GoogleSheetTest"/>
         </classes>
     </test>

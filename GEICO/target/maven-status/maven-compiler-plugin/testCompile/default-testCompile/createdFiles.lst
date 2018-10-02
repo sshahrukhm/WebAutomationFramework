@@ -1,0 +1,10 @@
+tests\SearchTest.class
+tests\NavigationBarTest.class
+datadriventest\LoginGoogleTest.class
+datadriventest\InformationAndInsuranceHoverTest.class
+tests\InsuranceProductsTest.class
+screenshottests\ScreenShotTest.class
+tests\GetQuoteTest.class
+datadriventest\GoogleSheetTest.class
+datadriventest\LoginTest.class
+tests\DropDownTest.class

@@ -1,7 +1,7 @@
 package datadriventest;
 
-import datadriven.GoogleSheet;
-import datadriven.Login;
+import datareader.GoogleSheet;
+import homepage.Login;
 import base.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.BeforeMethod;
