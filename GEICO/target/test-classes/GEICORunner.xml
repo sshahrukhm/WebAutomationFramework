@@ -10,25 +10,30 @@
     <parameter name="browserVersion" value="60.0"/>
     <parameter name="url" value="https://www.geico.com//"/>
 
-    <test name = "Pages Test">
+    <test name="AutoInsurancePackage">
+        <classes>
+            <class name="autoinsurancepackagetest.GetQuoteTest"/>
+        </classes>
+    </test>
+    <test name="HomeOwnersPackage">
+        <classes>
+            <class name="homeownerspackagetest.CustomerInformationTest"/>
+        </classes>
+    </test>
+    <test name = "HomePage">
         <classes>
             <class name="homepage.DropDownTest"/>
-            <class name="autoinsurancepackagetest.GetQuoteTest"/>
+            <class name="homepage.FeedbackTest"/>
             <class name="homepage.InsuranceProductsTest"/>
-            <class name ="navigationtest.NavigationBarTest" />
+            <class name ="homepage.LoginTest" />
+            <class name="homepage.LoginTestGoogleSheet"/>
             <class name="homepage.SearchTest"/>
         </classes>
     </test>
-    <test name="DataDriven Test">
+    <test name ="Navigation">
         <classes>
             <class name="navigationtest.InformationAndInsuranceHoverTest"/>
-            <class name="homepage.LoginTest"/>
-            <class name="datadriventest.GoogleSheetTest"/>
-        </classes>
-    </test>
-    <test name ="ScreenShot test">
-        <classes>
-            <class name="screenshottests.ScreenShotTest"/>
+            <class name="navigationtest.NavigationBarTest"/>
         </classes>
     </test>
 </suite>

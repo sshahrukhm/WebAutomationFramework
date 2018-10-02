@@ -2,75 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/BestBuy-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/BestBuy-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BestBuy/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/data/DataFile.xls" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/data/DataFile.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/extent-report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/extent-report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/datadriven/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/datareader/ConnectToMongoDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/datadriven/GoogleSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/datareader/GoogleSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/datadriven/InformationAndInsuranceHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/navigation/InformationAndInsuranceHover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/datadriven/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homepage/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/datadriven/XlsDataReaderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/datareader/XlsDataReaderUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/pages/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homepage/DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/pages/GetQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/autoinsurancepackage/GetQuote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/pages/InsuranceProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homepage/InsuranceProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/pages/NavigationBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/navigation/NavigationBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/pages/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homepage/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/GoogleSheetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/GoogleSheetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/InformationAndInsuranceHoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/navigationtest/InformationAndInsuranceHoverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/LoginTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/screenshottests/ScreenShotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/screenshottests/ScreenShotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/tests/DropDownTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homepage/DropDownTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/tests/GetQuoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/autoinsurancepackagetest/GetQuoteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/tests/InsuranceProductsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homepage/InsuranceProductsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/tests/NavigationBarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/navigationtest/NavigationBarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/tests/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homepage/SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/homepage/Feedback.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homepage/Feedback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/homepage/FeedbackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homepage/FeedbackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/GEICO-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/GEICO-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datadriven/ConnectToMongoDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datadriven/GoogleSheet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datadriven/InformationAndInsuranceHover.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datadriven/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datadriven/XlsDataReaderUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/pages/DropDown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/pages/GetQuote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/pages/InsuranceProducts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/pages/NavigationBar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/pages/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datareader/ConnectToMySQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/datareader/ConnectToMySQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/GEICORunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/GEICORunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/datadriventest/GoogleSheetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/datadriventest/GoogleSheetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/datadriventest/InformationAndInsuranceHoverTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/datadriventest/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/screenshottests/ScreenShotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/screenshottests/ScreenShotTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/tests/DropDownTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/tests/GetQuoteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/tests/InsuranceProductsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/tests/NavigationBarTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/tests/SearchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/GoogleSheetReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/datareader/GoogleSheetReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/GoogleSheetReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/GoogleSheetReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSQLDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSQLDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/datareader/XlsDataReaderUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/datareader/XlsDataReaderUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/datareader/XlsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/datareader/XlsReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/utility/DataReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/HBO-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/HBO-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/classes/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/classes/pages/SearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HBO/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homepage/FeedbackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homepage/FeedbackTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -184,32 +124,32 @@
         <counts>
           <entry key="StoredCredential" value="1" />
           <entry key="html" value="2" />
-          <entry key="java" value="212" />
-          <entry key="json" value="5" />
-          <entry key="xml" value="34" />
+          <entry key="java" value="223" />
+          <entry key="json" value="6" />
+          <entry key="xml" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="212" />
-          <entry key="JSON" value="5" />
+          <entry key="JAVA" value="223" />
+          <entry key="JSON" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="34" />
+          <entry key="XML" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="762" />
-          <entry key="xml" value="161" />
+          <entry key="java" value="770" />
+          <entry key="xml" value="272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="762" />
+          <entry key="JAVA" value="770" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="161" />
+          <entry key="XML" value="272" />
         </counts>
       </usages-collector>
     </session>
@@ -352,37 +292,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/homepage/LoginTestGoogleSheet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/datareader/GoogleSheetReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-122">
-              <caret line="52" column="84" selection-start-line="52" selection-start-column="84" selection-end-line="52" selection-end-column="84" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/datareader/GoogleSheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-788">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="680">
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/CaptureScreenShots.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -410,8 +336,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GEICO/src/main/java/pages/InsuranceProducts.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/XlsDataReaderUtil.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/datadriven/XlsDataReaderUtil.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/datareader/XlsReader.java" />
@@ -421,7 +345,6 @@
         <option value="$PROJECT_DIR$/GEICO/src/test/java/tests/GetQuoteTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/InformationAndInsuranceHoverTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/GoogleSheetTest.java" />
-        <option value="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/tests/InsuranceProductsTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/pages/DropDown.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/tests/DropDownTest.java" />
@@ -438,9 +361,7 @@
         <option value="$PROJECT_DIR$/GEICO/src/test/java/tests/LoginGoogleTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/homepage/Login.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/homepage/DropDown.java" />
-        <option value="$PROJECT_DIR$/GEICO/src/main/java/homepage/Feedback.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/homepagetests/DropDownTest.java" />
-        <option value="$PROJECT_DIR$/GEICO/src/test/java/homepage/FeedbackTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/homepage/InsuranceProductsTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/homepage/InsuranceProducts.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/homepage/LoginTest.java" />
@@ -458,9 +379,14 @@
         <option value="$PROJECT_DIR$/GEICO/src/main/java/autoinsurancepackage/GetQuote.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/autoinsurancepackagetest/GetQuoteTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/homepage/LoginTestGoogle.java" />
-        <option value="$PROJECT_DIR$/GEICO/src/test/java/homepage/LoginTestGoogleSheet.java" />
-        <option value="$PROJECT_DIR$/GEICO/src/main/java/datareader/GoogleSheet.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/datareader/GoogleSheetReader.java" />
+        <option value="$PROJECT_DIR$/GEICO/src/test/java/homepage/LoginTestGoogleSheet.java" />
+        <option value="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" />
+        <option value="$PROJECT_DIR$/GEICO/src/test/java/homepage/FeedbackTest.java" />
+        <option value="$PROJECT_DIR$/GEICO/src/main/java/homepage/Feedback.java" />
+        <option value="$PROJECT_DIR$/GEICO/src/main/java/datareader/ConnectToMySQL.java" />
+        <option value="$PROJECT_DIR$/GEICO/src/main/java/datareader/GoogleSheet.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/CaptureScreenShots.java" />
       </list>
     </option>
   </component>
@@ -481,9 +407,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="372" />
-    <option name="y" value="297" />
-    <option name="width" value="1388" />
+    <option name="x" value="371" />
+    <option name="y" value="296" />
+    <option name="width" value="1389" />
     <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -534,51 +460,74 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homepage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="datareader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -587,7 +536,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538456278398" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538465840914" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../GroupBlueFrameWork" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -626,17 +575,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTestGoogleSheet">
-    <configuration name="CustomerInformationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml">
+    <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GEICO" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeedbackTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GEICO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeownerspackagetest.*" />
+          <option name="PATTERN" value="homepage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homeownerspackagetest" />
-      <option name="MAIN_CLASS_NAME" value="homeownerspackagetest.CustomerInformationTest" />
+      <option name="PACKAGE_NAME" value="homepage" />
+      <option name="MAIN_CLASS_NAME" value="homepage.FeedbackTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -653,22 +612,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="homepage" />
       <option name="MAIN_CLASS_NAME" value="autoinsurancepackagetest.GetQuoteTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InformationAndInsuranceHoverTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="GEICO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="navigationtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="navigationtest" />
-      <option name="MAIN_CLASS_NAME" value="navigationtest.InformationAndInsuranceHoverTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -709,18 +652,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.GetQuoteTest" />
-      <item itemvalue="TestNG.InformationAndInsuranceHoverTest" />
-      <item itemvalue="TestNG.CustomerInformationTest" />
       <item itemvalue="TestNG.ScreenShotTest" />
       <item itemvalue="TestNG.LoginTestGoogleSheet" />
+      <item itemvalue="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml" />
+      <item itemvalue="TestNG.FeedbackTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml" />
+        <item itemvalue="TestNG.FeedbackTest" />
         <item itemvalue="TestNG.LoginTestGoogleSheet" />
         <item itemvalue="TestNG.ScreenShotTest" />
         <item itemvalue="TestNG.GetQuoteTest" />
-        <item itemvalue="TestNG.CustomerInformationTest" />
-        <item itemvalue="TestNG.InformationAndInsuranceHoverTest" />
       </list>
     </recent_temporary>
   </component>
@@ -738,21 +681,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DropDownTest_testDropDownList - 2018.10.01 at 22h 06m 29s.xml">
-      <configuration name="DropDownTest.testDropDownList" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_(1) - 2018.10.01 at 22h 09m 04s.xml">
-      <configuration name="LoginTest (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FeedbackTest - 2018.10.01 at 22h 12m 54s.xml">
-      <configuration name="FeedbackTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="InsuranceProductsTest - 2018.10.01 at 22h 15m 57s.xml">
-      <configuration name="InsuranceProductsTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="InsuranceProductsTest - 2018.10.01 at 22h 26m 43s.xml">
-      <configuration name="InsuranceProductsTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="InsuranceProductsTest - 2018.10.01 at 22h 33m 33s.xml">
       <configuration name="InsuranceProductsTest" configurationId="TestNG" />
     </history-entry>
@@ -798,12 +726,27 @@
     <history-entry file="LoginTestGoogleSheet - 2018.10.02 at 00h 43m 52s.xml">
       <configuration name="LoginTestGoogleSheet" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="LoginTestGoogleSheet - 2018.10.02 at 00h 55m 42s.xml">
+      <configuration name="LoginTestGoogleSheet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTestGoogleSheet - 2018.10.02 at 01h 16m 05s.xml">
+      <configuration name="LoginTestGoogleSheet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__MyFiles_Develop_AutomationFramework_Framework_GEICO_src_test_resources_GEICORunner_xml - 2018.10.02 at 01h 41m 12s.xml">
+      <configuration name="C:/MyFiles/Develop/AutomationFramework/Framework/GEICO/src/test/resources/GEICORunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FeedbackTest - 2018.10.02 at 01h 52m 27s.xml">
+      <configuration name="FeedbackTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FeedbackTest - 2018.10.02 at 01h 53m 55s.xml">
+      <configuration name="FeedbackTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -812,7 +755,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.3101983" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.3101983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -856,27 +799,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GEICO/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="54" selection-start-line="68" selection-start-column="54" selection-end-line="68" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -919,23 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -982,13 +887,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_secretGEICO.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1053,16 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homepage/Feedback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homepage/InsuranceProducts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1870">
@@ -1083,27 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/homepage/FeedbackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homepage/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-397">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/homepage/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -1112,26 +979,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homepage/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/homepage/SearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1210,16 +1057,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/datareader/ConnectToMySQL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/autoinsurancepackage/GetQuote.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1250,20 +1087,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/datareader/GoogleSheetReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-122">
-          <caret line="52" column="84" selection-start-line="52" selection-start-column="84" selection-end-line="52" selection-end-column="84" />
+        <state relative-caret-position="901">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/datareader/GoogleSheet.java">
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homepage/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-788">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="561">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homepage/Feedback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/datareader/ConnectToMySQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1272,12 +1143,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/homepage/LoginTestGoogleSheet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#373#374#0" expanded="true" />
             <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/homepage/FeedbackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/homepage/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homepage/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/datareader/GoogleSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/CaptureScreenShots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
