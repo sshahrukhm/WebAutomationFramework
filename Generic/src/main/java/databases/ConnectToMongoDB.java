@@ -32,7 +32,7 @@ public class ConnectToMongoDB {
         return profile + " has been registered";
     }
 
-    public String insertIntoMongoDB(List<Student> student,String profileName){
+    public String insertIntoMongoDB(List<Student> student, String profileName){
         MongoDatabase mongoDatabase = connectToMongoDB();
         MongoCollection myCollection = mongoDatabase.getCollection(profileName);
         boolean collectionExists = mongoDatabase.listCollectionNames()
@@ -92,10 +92,11 @@ public class ConnectToMongoDB {
     }
 
     public static void main(String[] args){
-        insertIntoToMongoDB(new User("Naomi Chan", "4493","07-1996"));
+        insertIntoToMongoDB(new User("Matiur Rahman", "101","01/01/1990"));
         List<User> user = readUserProfileFromMongoDB();
         for(User person:user){
-            System.out.println(person.getStName()+ " "+ person.getStID());
+            System.out.println(person.getStName()+ " "+ person.getStID()+" "+person.getStDOB()+" ");
+            System.out.println("MONGO DB ACTIVATED");
         }
     }
 }

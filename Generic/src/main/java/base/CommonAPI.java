@@ -97,7 +97,8 @@ public class CommonAPI {
         Date date = new Date();
         df.format(date);
 
-        File file = ((TakesScreenshot) CommonAPI.driver).getScreenshotAs(OutputType.FILE);
+        //File file = ((TakesScreenshot) CommonAPI.driver).getScreenshotAs(OutputType.FILE);
+        File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
         try {
             FileUtils.copyFile(file, new File(System.getProperty("user.dir")+ "/screenshots/"+screenshotName+" "+df.format(date)+".png"));
             System.out.println("Screenshot captured");

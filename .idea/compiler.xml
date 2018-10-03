@@ -11,6 +11,7 @@
         <module name="GEICO" />
         <module name="Generic" />
         <module name="HBO" />
+        <module name="RestAPI" />
       </profile>
       <profile name="Annotation profile for hybrid-framework" enabled="true">
         <sourceOutputDir name="../HBO/HomeDepot1/target/generated-sources/annotations" />
