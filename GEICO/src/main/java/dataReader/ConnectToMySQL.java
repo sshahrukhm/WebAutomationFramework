@@ -1,5 +1,7 @@
 package dataReader;
 
+import org.openqa.selenium.WebElement;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -11,7 +13,7 @@ import java.util.Properties;
 public class ConnectToMySQL {
 
     public static Connection connect = null;
-    public static Statement statemeent = null;
+    public static Statement statement = null;
     public static PreparedStatement ps = null;
     public static ResultSet rs = null;
 
@@ -33,7 +35,7 @@ public class ConnectToMySQL {
         System.out.println("Database is connected");
         return connect;
     }
-    /*public void createTable (String tableName, String columnName) throws Exception{
+    public void createTable (String tableName, String columnName, List<WebElement> webelement) throws Exception{
         try {
             connectToMySQL();
             String query1 = "drop table "+tableName;
@@ -42,6 +44,11 @@ public class ConnectToMySQL {
             String query2 = "create table "+tableName+"("+columnName+" varchar(100))";
             ps = connect.prepareStatement(query2);
             ps.executeUpdate();
+            for(WebElement it: webelement){
+                String query3 = "insert into "+tableName+" values('"+it.getText()+"')";
+                ps = connect.prepareStatement(query3);
+                ps.executeUpdate();
+            }
         } catch (IOException e) {
             e.printStackTrace();
         } catch (SQLException e) {
@@ -49,7 +56,7 @@ public class ConnectToMySQL {
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }
-    }*/
+    }
     public List<String> readData(String tableName, String columnName) {
         List<String> warning = new ArrayList<>();
         try{

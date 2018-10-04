@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 import reporting.TestLogger;
 
 public class SearchTest extends Search {
-
     public String keys = "vehicle";
     Search search;
     @BeforeMethod

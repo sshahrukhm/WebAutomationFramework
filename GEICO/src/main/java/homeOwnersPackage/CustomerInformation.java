@@ -1,10 +1,12 @@
 package homeOwnersPackage;
 
 import base.CommonAPI;
+import dataReader.ConnectToMySQL;
 import homePage.InsuranceProducts;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import reporting.TestLogger;
 
 import java.util.ArrayList;
@@ -12,7 +14,7 @@ import java.util.List;
 
 public class CustomerInformation extends CommonAPI {
     InsuranceProducts object = PageFactory.initElements(driver,InsuranceProducts.class);
-
+    ConnectToMySQL connect = new ConnectToMySQL();
     //test of texts shown in all the help tool tips.
     @FindBy(xpath = "//a[@data-tooltip-view='HelpText-NIP013PIPropertyStreetAddress']")
     public static WebElement streetTip;
@@ -84,5 +86,11 @@ public class CustomerInformation extends CommonAPI {
         Thread.sleep(1000);
         waitToBeVisible(element);
         return element.isDisplayed();
+    }
+    public void compareWarningMessage() throws InterruptedException {
+        List<String> warningText = clickContinue1();
+        List<String> actualText = connect.readData("customerInfo1","warning");
+        for (int i=0; i<actualText.size();i++)
+            Assert.assertEquals(actualText.get(i),warningText.get(i));
     }
 }

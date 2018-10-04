@@ -19,6 +19,7 @@ public class ConnectToMongoDB {
         System.out.println("Database Connected");
         return mongoDatabase;
     }
+
     public static String insertToMongoDB(WebElement element,String tableName){
         MongoDatabase mongoDatabase = connectToMongoDB();
         String menu = element.getText();
