@@ -22,7 +22,7 @@ public class PostResources {
         request.header("Content-Type", "application/json");
         JSONObject jsonObject = new JSONObject();
 
-        jsonObject.put("id",4);
+        jsonObject.put("id",1);
         jsonObject.put("title", "shahrukh");
         jsonObject.put("author", "QA");
 
