@@ -45,7 +45,6 @@ public class CommonAPI {
         driver.manage().window().maximize();
         //Thread.sleep(2000);
     }
-
     //ExtentReport
     public static ExtentReports extent;
     @BeforeSuite
@@ -66,7 +65,6 @@ public class CommonAPI {
         t.printStackTrace(pw);
         return sw.toString();
     }
-
     @AfterMethod
     public void afterEachTestMethod(ITestResult result) {
         ExtentTestManager.getTest().getTest().setStartedTime(getTime(result.getStartMillis()));
@@ -105,7 +103,6 @@ public class CommonAPI {
         } catch (Exception e) {
             System.out.println("Exception while taking screenshot "+e.getMessage());;
         }
-
     }
     @AfterSuite
     public void generateReport() {

@@ -16,9 +16,7 @@ import java.util.List;
 import static dataReader.GoogleSheetReader.getSheetsService;
 
 public class GoogleSheet extends Login {
-
     Login loginObject = PageFactory.initElements(driver,Login.class);
-
     public List<List<Object>> getSpreadSheetRecords(String spreadsheetId, String range) throws IOException {
         // Build a new authorized API client service.
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -33,19 +31,15 @@ public class GoogleSheet extends Login {
             return values;
         }
     }
-
-    //LogIn by using Google Sheet sheet data
     public List<String> signInByInvalidIdPass(String spreadsheetId, String range) throws IOException, InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         List<List<Object>> col2Value = getSpreadSheetRecords(spreadsheetId, range);
-        driver.navigate().to("https://ecams.geico.com/ecams/login.xhtml?r=true");
         List<String> actual = new ArrayList<>();
         for (List row : col2Value) {
             Thread.sleep(3000);
             inputValueInTextBoxByWebElement(loginTextBox, row.get(1).toString());
             inputValueInTextBoxByWebElement(passwordTextBox, row.get(2).toString());
             Thread.sleep(3000);
-            //actual.add(getCurrentPageTitle());
             actual.add(getTextByWebElement(errorMessage));
             System.out.println(getTextByWebElement(errorMessage));
             clearInputBox(loginTextBox);
