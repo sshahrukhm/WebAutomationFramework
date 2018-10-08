@@ -38,7 +38,6 @@ public class CustomerInformation extends CommonAPI {
         for(int i=0;i<actualText.size();i++){
             Assert.assertEquals(actualText.get(i),warningText.get(i));
         }
-
     }
     public void firstName(){
         driver.findElement(By.xpath("//input[@id='CustomerInformationViewData_NIP002PIFirstName']")).sendKeys("farooq");
