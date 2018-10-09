@@ -11,5 +11,4 @@ public class ScreenShotTest extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         captureScreenshot(driver, screenShot1);
     }
-
 }

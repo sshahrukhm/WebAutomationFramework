@@ -10,33 +10,45 @@
     <parameter name="browserVersion" value="60.0"/>
     <parameter name="url" value="https://www.geico.com//"/>
 
-    <test name="AutoInsurancePackage">
+    <test name="AutoInsurancePackageTest">
         <classes>
+            <class name="autoInsurancePackageTest.AutoInsuranceCustomerInformationTest"/>
             <class name="autoInsurancePackageTest.GetQuoteTest"/>
         </classes>
     </test>
-    <test name="HomeOwnersPackage">
+    <test name="CondoInsuranceTest">
         <classes>
-            <class name="homeOwnersPackageTest.CustomerInformationTest"/>
+            <class name="condoInsuranceTest.CustomerInformationTest"/>
         </classes>
     </test>
-    <test name = "HomePage">
+    <test name="HomeOwnersPackageTest">
+        <classes>
+            <class name="homeOwnersPackageTest.CustomerInformationTest"/>
+            <class name="homeOwnersPackageTest.PromptToCallTest"/>
+        </classes>
+    </test>
+    <test name = "HomePageTest">
         <classes>
             <class name="homePageTest.DropDownTest"/>
             <class name="homePageTest.FeedbackTest"/>
             <class name="homePageTest.InsuranceProductsTest"/>
-            <class name ="homePageTest.LoginTest" />
-            <class name="homePageTest.LoginTestGoogleSheet"/>
+            <class name ="homePageTest.LoginExcelSheetTest" />
+            <class name="homePageTest.LoginGoogleSheetTest"/>
             <class name="homePageTest.SearchTest"/>
         </classes>
     </test>
-    <test name ="Navigation">
+    <test name="MotorVehicleTest">
+        <classes>
+            <class name="motorVehicleTest.MotorVehicleCustomerInformationTest"/>
+        </classes>
+    </test>
+    <test name ="NavigationBarTest">
         <classes>
             <class name="navigationBarTest.InformationAndInsuranceHoverTest"/>
             <class name="navigationBarTest.NavigationBarTest"/>
         </classes>
     </test>
-    <test name="RentersInsurance">
+    <test name="RentersInsuranceTest">
         <classes>
             <class name="rentersInsuranceTest.PropertySalesTest"/>
             <class name="rentersInsuranceTest.RentersPropertySalesTest"/>

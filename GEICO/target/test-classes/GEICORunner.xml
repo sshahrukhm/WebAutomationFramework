@@ -25,8 +25,8 @@
             <class name="homePageTest.DropDownTest"/>
             <class name="homePageTest.FeedbackTest"/>
             <class name="homePageTest.InsuranceProductsTest"/>
-            <class name ="homePageTest.LoginTest" />
-            <class name="homePageTest.LoginTestGoogleSheet"/>
+            <class name ="homePageTest.LoginExcelSheetTest" />
+            <class name="homePageTest.LoginGoogleSheetTest"/>
             <class name="homePageTest.SearchTest"/>
         </classes>
     </test>

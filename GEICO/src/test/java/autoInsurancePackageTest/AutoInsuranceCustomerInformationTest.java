@@ -20,5 +20,4 @@ public class AutoInsuranceCustomerInformationTest extends AutoInsuranceCustomerI
     public void testLastNameErrorMessage(){
         clickNextWithoutFillingLastName();
     }
-
 }

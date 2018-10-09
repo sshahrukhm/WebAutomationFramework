@@ -11,12 +11,10 @@ import java.util.List;
 import java.util.Properties;
 
 public class ConnectToMySQL {
-
     public static Connection connect = null;
-    public static Statement statement = null;
+    public static Statement statemeent = null;
     public static PreparedStatement ps = null;
     public static ResultSet rs = null;
-
     public static Properties LoadProperties() throws IOException {
         Properties prop = new Properties();
         InputStream ism = new FileInputStream("src/secret.properties");
@@ -63,10 +61,8 @@ public class ConnectToMySQL {
             Connection con = connectToMySQL();
             Statement st = con.createStatement();
             String query = "select * from " + tableName;
-            //st.executeUpdate("insert into pnt(stdId,stName) values(8,'bah')");
             ResultSet rs = st.executeQuery(query);
             while(rs.next()){
-                //System.out.println("Data"+rs.getString("stdId")+" "+rs.getString("stName"));
                 warning.add(rs.getString(columnName));
             }
         }catch(Exception e){

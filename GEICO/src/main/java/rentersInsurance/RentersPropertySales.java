@@ -6,14 +6,14 @@ import reporting.TestLogger;
 
 public class RentersPropertySales extends CommonAPI {
     PropertySales objPropertySales = new PropertySales();
-    public void navigateToConversation(){
+    public void navigteToConversation(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         objPropertySales.navigateToPropertyType();
         objPropertySales.clickOnElementRD(PropertySales.rentersRD);
     }
     public void clickOnMoving(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
-        navigateToConversation();
+        navigteToConversation();
         driver.findElement(By.xpath("//button[@value='moving']")).click();
     }
 }

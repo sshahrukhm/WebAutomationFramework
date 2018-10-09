@@ -12,7 +12,7 @@ public class RentersPropertySalesTest extends RentersPropertySales {
     public void init(){
         PropertySales obj1 = PageFactory.initElements(driver,PropertySales.class);
         RentersPropertySales obj = PageFactory.initElements(driver,RentersPropertySales.class);
-        //navigateToConversation();
+        //navigteToConversation();
     }
     @Test
     public void testMovingClick(){

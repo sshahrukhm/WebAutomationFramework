@@ -28,7 +28,6 @@ public class CustomerInformation extends CommonAPI {
     public static WebElement dateOfBirthTip;
     @FindBy(xpath = "//div[@id='HelpText-CD003DateOfBirth']//div[@id='HelpTextDiv']/p")
     public static WebElement dateOfBirthTipText;
-
     @FindBy(xpath = "//label[@for='CustomerInformationViewData_CD004aMovedRecently_True']")
     public static WebElement radioButton2Yes;
     @FindBy(id = "CD005PriorAddressStreet")
@@ -39,7 +38,6 @@ public class CustomerInformation extends CommonAPI {
     public static WebElement div3;
     @FindBy(id = "CD008PriorAddressState")
     public static WebElement div4;
-
     public void clickRadioButton(){
         radioButton2Yes.click();
     }
@@ -57,7 +55,7 @@ public class CustomerInformation extends CommonAPI {
     public void clickOnHomeOwnersInsurance() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         object.homeOwnersInsuranceIcon.click();
-        object.sendZipCodeKeys("11423");
+        object.sendZipCodeKeys("11435");
     }
     public String clickToolTip(WebElement toolKit, WebElement toolKitText ) throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));

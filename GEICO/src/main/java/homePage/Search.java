@@ -8,9 +8,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import reporting.TestLogger;
 
 public class Search extends CommonAPI {
-    @FindBy(xpath = "//*[@id=\"primary-navigationBar\"]/div[6]/form/input")
+    @FindBy(xpath = "//*[@id=\"primary-navigation\"]/div[6]/form/input")
     public static WebElement searchTextBox;
-    @FindBy(xpath = "//*[@id=\"primary-navigationBar\"]/div[6]/form/button")
+    @FindBy(xpath = "//*[@id=\"primary-navigation\"]/div[6]/form/button")
     public static WebElement searchSubmitButton;
     @FindBy(css = "#header-right-links > ul > li:nth-child(3) > a > span")
     public static WebElement searchIcon;

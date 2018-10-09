@@ -37,6 +37,6 @@ public class PropertySales extends CommonAPI {
     public void sendKeysToZipCodeBox(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         WebElement zipCodeBox = driver.findElement(By.id("LandingViewData_NIP001PropertyZip"));
-        zipCodeBox.sendKeys("11423");
+        zipCodeBox.sendKeys("11435");
     }
 }

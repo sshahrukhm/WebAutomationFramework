@@ -60,32 +60,11 @@ public class InsuranceProductsTest extends InsuranceProducts {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         Assert.assertEquals("https://www.geico.com/mobile-home-insurance/",clickOnIconWithoutZipCode2(mobileHomeIcon));
     }
-    /*@Test popup
-    public void testFloodInsurance()throws InterruptedException{
-        clickOnFloodIcon();
-    }*/
     @Test
     public void testCommercialAutoInsurance()throws InterruptedException{
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         Assert.assertEquals("https://www.geico.com/mobile-home-insurance/",clickOnIconWithoutZipCode2(mobileHomeIcon));
     }
-    /*@Test popup
-    public void testGeneralLiabilityInsurance()throws InterruptedException{
-        clickOnGeneralLiabilityIcon();
-    }*/
-    /*@Test popup
-    public void testProfessionalLiabilityInsurance()throws InterruptedException{
-        clickOnProfessionalLiabilityIcon();
-    }*/
-    /*@Test popup
-    public void testBusinessOwnersInsurance()throws InterruptedException{
-        clickOnBusinessOwnersIcon();
-    }*/
-    /*@Test popup
-    public void testWorkersCompensation(){
-    }*/
-   /* @Test popup
-    public void testLifeInsurance(){}*/
     @Test
     public void testrideSharingInsurance()throws InterruptedException{
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -106,17 +85,11 @@ public class InsuranceProductsTest extends InsuranceProducts {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         Assert.assertEquals("https://propertysales.geico.com/Generali/CustomerInformation",clickOnIconWithoutZipCode3(identityProtectionIcon));
     }
-    /*@Test popUp
-    public void testPestInsurance() throws InterruptedException { }*/
-    /*@Test popUp
-    public void testJewelryInsurance() throws InterruptedException { }*/
     @Test
     public void testLandlordInsurance() throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         Assert.assertEquals("https://www.geico.com/landlord-insurance/",clickOnIconWithoutZipCode3(landlordInsuranceIcon));
     }
-    /*@Test popUp
-  public void testMexicoAutoInsurance() throws InterruptedException { }*/
     @Test
     public void testErrorMessage1(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));

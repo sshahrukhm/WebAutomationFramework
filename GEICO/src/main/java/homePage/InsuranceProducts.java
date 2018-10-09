@@ -109,7 +109,7 @@ public class InsuranceProducts extends CommonAPI {
     public String clickOnIconwithZipCode(WebElement element) throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         element.click();
-        return sendZipCodeKeys("11423");
+        return sendZipCodeKeys("11435");
     }
     public String clickOnIconWithoutZipCode(WebElement element) throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -120,7 +120,7 @@ public class InsuranceProducts extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         goRight();
         element.click();
-        return sendZipCodeKeys("11423");
+        return sendZipCodeKeys("11435");
     }
     public String clickOnIconWithoutZipCode2(WebElement element)throws InterruptedException{
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -132,7 +132,7 @@ public class InsuranceProducts extends CommonAPI {
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         goDoubleRight();
         element.click();
-        return sendZipCodeKeys("11423");
+        return sendZipCodeKeys("11435");
     }
     public String clickOnIconWithoutZipCode3(WebElement element)throws InterruptedException{
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
