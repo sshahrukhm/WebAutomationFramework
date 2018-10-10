@@ -2,150 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2340b87-640b-4714-b137-57237d959746" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/src/main/java/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/java/tests/HomePageTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/java/tests/InputHome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/src/test/resources/BestBuyTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/BestBuy-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/classes/pages/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/BestBuyTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/tests/HomePageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/tests/InputHome.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/extent-report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/extent-report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/autoInsurancePackage/GetQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/autoInsurancePackage/GetQuote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/condoInsurance/CustomerInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/condoInsurance/CustomerInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/dataReader/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/dataReader/ConnectToMongoDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/dataReader/ConnectToMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/dataReader/ConnectToMySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/dataReader/GoogleSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/dataReader/GoogleSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/homeOwnersPackage/CustomerInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homeOwnersPackage/CustomerInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/homePage/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homePage/DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/homePage/Feedback.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homePage/Feedback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/homePage/InsuranceProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homePage/InsuranceProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/homePage/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homePage/LoginExcelSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/homePage/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/homePage/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/navigationBar/InformationAndInsuranceHover.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/navigationBar/InformationAndInsuranceHover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/navigationBar/NavigationBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/navigationBar/NavigationBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/rentersInsurance/PropertySales.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/rentersInsurance/PropertySales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/main/java/rentersInsurance/RentersPropertySales.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/main/java/rentersInsurance/RentersPropertySales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/autoInsurancePackageTest/AutoInsuranceCustomerInformationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/autoInsurancePackageTest/AutoInsuranceCustomerInformationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/GoogleSheetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/GoogleSheetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/DropDownTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/DropDownTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/FeedbackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/FeedbackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/InsuranceProductsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/InsuranceProductsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/LoginExcelSheetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/LoginTestGoogleSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/LoginGoogleSheetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/SearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/motorVehicleTest/MotorVehicleCustomerInformationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/motorVehicleTest/MotorVehicleCustomerInformationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/InformationAndInsuranceHoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/InformationAndInsuranceHoverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/NavigationBarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/NavigationBarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/rentersInsuranceTest/RentersPropertySalesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/rentersInsuranceTest/RentersPropertySalesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/java/screenshotTest/ScreenShotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/java/screenshotTest/ScreenShotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/GEICO-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/GEICO-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/autoinsurancepackage/GetQuote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/condoInsurance/CustomerInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/condoInsurance/CustomerInformation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datareader/ConnectToMongoDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/datareader/ConnectToMongoDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datareader/ConnectToMySQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/datareader/ConnectToMySQL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/datareader/GoogleSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/datareader/GoogleSheet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homeownerspackage/CustomerInformation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/DropDown$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/DropDown$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/DropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/DropDown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/Feedback.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/InsuranceProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/InsuranceProducts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Login$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Login$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Login$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Login$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/homepage/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/homepage/Search.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover$5.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/navigationBar/InformationAndInsuranceHover.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/rentersInsurance/PropertySales.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/rentersInsurance/PropertySales.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/rentersInsurance/RentersPropertySales$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/rentersInsurance/RentersPropertySales$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/classes/rentersInsurance/RentersPropertySales.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/classes/rentersInsurance/RentersPropertySales.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/GEICORunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/GEICORunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/datadriventest/GoogleSheetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/DropDownTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/DropDownTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/DropDownTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/DropDownTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/FeedbackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/FeedbackTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest$23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/InsuranceProductsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/LoginTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/LoginTestGoogleSheet$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/homePageTest/LoginTestGoogleSheet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/navigationBarTest/InformationAndInsuranceHoverTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/navigationBarTest/InformationAndInsuranceHoverTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GEICO/target/test-classes/navigationBarTest/InformationAndInsuranceHoverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/GEICO/target/test-classes/navigationBarTest/InformationAndInsuranceHoverTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/src/main/java/pages/HomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/src/main/java/pages/SearchPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/src/test/java/Base/TestHomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/src/test/java/Base/TestSearchPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/src/test/resources/hboTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/HBO-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/classes/pages/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/classes/pages/SearchPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/test-classes/Base/TestHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/test-classes/Base/TestSearchPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HBO/target/test-classes/hboTestRunner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/target/RestAPI-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/RestAPI-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestAPI/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI/target/test-classes/jsonServer/PostResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI/target/test-classes/jsonServer/PostResources.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hybridframework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -443,26 +316,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="54" />
-          <entry key="xml" value="5" />
+          <entry key="java" value="61" />
+          <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="54" />
-          <entry key="XML" value="5" />
+          <entry key="JAVA" value="61" />
+          <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="java" value="74" />
+          <entry key="java" value="76" />
           <entry key="xml" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="74" />
+          <entry key="JAVA" value="76" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="XML" value="68" />
         </counts>
@@ -471,11 +344,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/InformationAndInsuranceHoverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="107" column="41" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/autoInsurancePackageTest/AutoInsuranceCustomerInformationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -531,7 +443,6 @@
         <option value="$PROJECT_DIR$/GEICO/src/main/java/homePage/LoginExcelSheet.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/homePage/Search.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/motorVehicle/MotorVehicleCustomerInformation.java" />
-        <option value="$PROJECT_DIR$/GEICO/src/main/java/navigationBar/InformationAndInsuranceHover.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/navigationBar/NavigationBar.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/rentersInsurance/PropertySales.java" />
         <option value="$PROJECT_DIR$/GEICO/src/main/java/rentersInsurance/RentersPropertySales.java" />
@@ -547,7 +458,6 @@
         <option value="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/LoginGoogleSheetTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/homePageTest/SearchTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/motorVehicleTest/MotorVehicleCustomerInformationTest.java" />
-        <option value="$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/InformationAndInsuranceHoverTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/NavigationBarTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/rentersInsuranceTest/PropertySalesTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/rentersInsuranceTest/RentersPropertySalesTest.java" />
@@ -556,6 +466,8 @@
         <option value="$PROJECT_DIR$/GEICO/src/main/java/dataReader/GoogleSheet.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/java/datadriventest/GoogleSheetTest.java" />
         <option value="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" />
+        <option value="$PROJECT_DIR$/GEICO/src/main/java/navigationBar/InformationAndInsuranceHover.java" />
+        <option value="$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/InformationAndInsuranceHoverTest.java" />
       </list>
     </option>
   </component>
@@ -568,14 +480,24 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="GEICO" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="GEICO" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -598,6 +520,53 @@
               <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
               <item name="GEICO" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="autoInsurancePackageTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="navigationBarTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="GEICO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -606,7 +575,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539055110907" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539211974909" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -645,17 +614,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginGoogleSheetTest">
-    <configuration name="LoginGoogleSheetTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.NavigationBarTest">
+    <configuration name="AutoInsuranceCustomerInformationTest.testFirstNameErrorMessage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GEICO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homePageTest.*" />
+          <option name="PATTERN" value="autoInsurancePackageTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="homePageTest" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest.LoginGoogleSheetTest" />
+      <option name="PACKAGE_NAME" value="autoInsurancePackageTest" />
+      <option name="MAIN_CLASS_NAME" value="autoInsurancePackageTest.AutoInsuranceCustomerInformationTest" />
+      <option name="METHOD_NAME" value="testFirstNameErrorMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/MyFiles/Develop/WebAutomationFramework/GEICO/src/test/resources/GEICORunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GEICO" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InformationAndInsuranceHoverTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GEICO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigationBarTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigationBarTest" />
+      <option name="MAIN_CLASS_NAME" value="navigationBarTest.InformationAndInsuranceHoverTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InformationAndInsuranceHoverTest.testInformationMenuItems" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GEICO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="navigationBarTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="navigationBarTest" />
+      <option name="MAIN_CLASS_NAME" value="navigationBarTest.InformationAndInsuranceHoverTest" />
+      <option name="METHOD_NAME" value="testInformationMenuItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -678,68 +693,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertySalesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="GEICO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rentersInsuranceTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rentersInsuranceTest" />
-      <option name="MAIN_CLASS_NAME" value="rentersInsuranceTest.PropertySalesTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RentersPropertySalesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="GEICO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rentersInsuranceTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rentersInsuranceTest" />
-      <option name="MAIN_CLASS_NAME" value="rentersInsuranceTest.RentersPropertySalesTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScreenShotTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="GEICO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="screenshotTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="screenshotTest" />
-      <option name="MAIN_CLASS_NAME" value="screenshotTest.ScreenShotTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="TestNG.C:/MyFiles/Develop/WebAutomationFramework/GEICO/src/test/resources/GEICORunner.xml" />
       <item itemvalue="TestNG.NavigationBarTest" />
-      <item itemvalue="TestNG.PropertySalesTest" />
-      <item itemvalue="TestNG.RentersPropertySalesTest" />
-      <item itemvalue="TestNG.ScreenShotTest" />
-      <item itemvalue="TestNG.LoginGoogleSheetTest" />
+      <item itemvalue="TestNG.InformationAndInsuranceHoverTest" />
+      <item itemvalue="TestNG.InformationAndInsuranceHoverTest.testInformationMenuItems" />
+      <item itemvalue="TestNG.AutoInsuranceCustomerInformationTest.testFirstNameErrorMessage" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginGoogleSheetTest" />
-        <item itemvalue="TestNG.ScreenShotTest" />
-        <item itemvalue="TestNG.RentersPropertySalesTest" />
-        <item itemvalue="TestNG.PropertySalesTest" />
         <item itemvalue="TestNG.NavigationBarTest" />
+        <item itemvalue="TestNG.AutoInsuranceCustomerInformationTest.testFirstNameErrorMessage" />
+        <item itemvalue="TestNG.InformationAndInsuranceHoverTest.testInformationMenuItems" />
+        <item itemvalue="TestNG.InformationAndInsuranceHoverTest" />
+        <item itemvalue="TestNG.C:/MyFiles/Develop/WebAutomationFramework/GEICO/src/test/resources/GEICORunner.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -757,30 +724,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PostResources - 2018.10.05 at 18h 12m 19s.xml">
-      <configuration name="PostResources" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PostResources_putNullPost - 2018.10.05 at 18h 22m 03s.xml">
-      <configuration name="PostResources.putNullPost" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PostResources_postTest - 2018.10.05 at 18h 22m 38s.xml">
-      <configuration name="PostResources.postTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PostResources_postTest - 2018.10.05 at 18h 22m 55s.xml">
-      <configuration name="PostResources.postTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PostResources_postTest - 2018.10.05 at 18h 23m 20s.xml">
-      <configuration name="PostResources.postTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest - 2018.10.07 at 10h 56m 30s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest - 2018.10.08 at 18h 12m 37s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest - 2018.10.08 at 18h 24m 00s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="LoginExcelSheetTest - 2018.10.08 at 22h 25m 04s.xml">
       <configuration name="LoginExcelSheetTest" configurationId="TestNG" />
     </history-entry>
@@ -817,11 +760,35 @@
     <history-entry file="LoginGoogleSheetTest - 2018.10.08 at 23h 07m 52s.xml">
       <configuration name="LoginGoogleSheetTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__MyFiles_Develop_WebAutomationFramework_GEICO_src_test_resources_GEICORunner_xml - 2018.10.08 at 23h 42m 37s.xml">
+      <configuration name="C:/MyFiles/Develop/WebAutomationFramework/GEICO/src/test/resources/GEICORunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NavigationBarTest - 2018.10.10 at 15h 56m 34s.xml">
+      <configuration name="NavigationBarTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InformationAndInsuranceHoverTest - 2018.10.10 at 15h 57m 37s.xml">
+      <configuration name="InformationAndInsuranceHoverTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InformationAndInsuranceHoverTest - 2018.10.10 at 16h 20m 13s.xml">
+      <configuration name="InformationAndInsuranceHoverTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="InformationAndInsuranceHoverTest_testInformationMenuItems - 2018.10.10 at 16h 55m 20s.xml">
+      <configuration name="InformationAndInsuranceHoverTest.testInformationMenuItems" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutoInsuranceCustomerInformationTest_testFirstNameErrorMessage - 2018.10.10 at 18h 50m 32s.xml">
+      <configuration name="AutoInsuranceCustomerInformationTest.testFirstNameErrorMessage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AutoInsuranceCustomerInformationTest_testFirstNameErrorMessage - 2018.10.10 at 18h 51m 08s.xml">
+      <configuration name="AutoInsuranceCustomerInformationTest.testFirstNameErrorMessage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="NavigationBarTest - 2018.10.10 at 18h 52m 49s.xml">
+      <configuration name="NavigationBarTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -830,7 +797,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.33002833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986577" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -845,9 +812,9 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3295302" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.19261745" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" order="7" weight="0.32885906" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.19261745" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
@@ -874,13 +841,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="712" column="25" selection-start-line="712" selection-start-column="25" selection-end-line="712" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/CaptureScreenShots.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -950,13 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/autoInsurancePackage/AutoInsuranceCustomerInformation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -981,16 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/dataReader/ConnectToMongoDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1065,16 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homePage/InsuranceProducts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2839">
-          <caret line="167" column="84" lean-forward="true" selection-start-line="167" selection-start-column="84" selection-end-line="167" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1037">
@@ -1137,30 +1070,6 @@
           <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/navigationBar/InformationAndInsuranceHover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/autoInsurancePackageTest/AutoInsuranceCustomerInformationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1315,18 +1224,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/InformationAndInsuranceHoverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/NavigationBarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -1412,10 +1309,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/homePage/InsuranceProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="169" column="27" lean-forward="true" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/dataReader/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/main/java/navigationBar/InformationAndInsuranceHover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/navigationBarTest/InformationAndInsuranceHoverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GEICO/src/test/resources/GEICORunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="107" column="41" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEICO/src/test/java/autoInsurancePackageTest/AutoInsuranceCustomerInformationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -5,8 +5,8 @@ C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\autoInsurancePacka
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\autoInsurancePackage\GetQuote.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\homePage\DropDown.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\rentersInsurance\RentersPropertySales.java
+C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\homePage\LoginGoogleSheet.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\homePage\InsuranceProducts.java
-C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\homePage\Login.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\navigationBar\InformationAndInsuranceHover.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\homePage\Feedback.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\rentersInsurance\PropertySales.java
@@ -17,3 +17,4 @@ C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\dataReader\Connect
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\homeOwnersPackage\PromptToCall.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\condoInsurance\CustomerInformation.java
 C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\dataReader\GoogleSheet.java
+C:\MyFiles\Develop\WebAutomationFramework\GEICO\src\main\java\homePage\LoginExcelSheet.java

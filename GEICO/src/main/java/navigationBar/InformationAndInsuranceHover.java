@@ -7,7 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 import reporting.TestLogger;
-
 import java.util.List;
 
 public class InformationAndInsuranceHover extends CommonAPI {
@@ -19,6 +18,7 @@ public class InformationAndInsuranceHover extends CommonAPI {
     public static WebElement insurance;
     public static String insuranceDivPath = "//div[@data-side-panel='insurance']/ul";
     public static String insuranceMenuElementsPath = "//div[@data-side-panel='insurance']/ul/li/a/span[2]";
+
 
     public List<WebElement> getMenuList(String parentXpath, String childXpath){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
@@ -40,6 +40,7 @@ public class InformationAndInsuranceHover extends CommonAPI {
             Assert.assertEquals(actualText.get(i),expectedText.get(i).getText());
         }
     }
+
     public List<WebElement> getInsuranceMenuList(){
         TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         insurance.click();

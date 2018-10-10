@@ -4,6 +4,7 @@ homePageTest\InsuranceProductsTest$23.class
 rentersInsuranceTest\PropertySalesTest$2.class
 autoInsurancePackageTest\GetQuoteTest$3.class
 homeOwnersPackageTest\CustomerInformationTest$4.class
+homePageTest\LoginExcelSheetTest.class
 homePageTest\DropDownTest.class
 homeOwnersPackageTest\CustomerInformationTest$1.class
 homePageTest\FeedbackTest.class
@@ -13,8 +14,8 @@ homeOwnersPackageTest\PromptToCallTest$2.class
 homePageTest\InsuranceProductsTest$9.class
 homePageTest\InsuranceProductsTest$17.class
 homePageTest\InsuranceProductsTest$3.class
+navigationBarTest\InformationAndInsuranceHoverTest$2.class
 homeOwnersPackageTest\CustomerInformationTest$7.class
-homePageTest\LoginTest.class
 homePageTest\InsuranceProductsTest$6.class
 autoInsurancePackageTest\GetQuoteTest$2.class
 navigationBarTest\NavigationBarTest$4.class
@@ -23,16 +24,18 @@ homePageTest\SearchTest$2.class
 homePageTest\InsuranceProductsTest$5.class
 navigationBarTest\NavigationBarTest$2.class
 rentersInsuranceTest\RentersPropertySalesTest$1.class
-datadriventest\GoogleSheetTest.class
 homePageTest\SearchTest.class
+homePageTest\LoginGoogleSheetTest.class
 homePageTest\InsuranceProductsTest$12.class
 rentersInsuranceTest\PropertySalesTest$3.class
 homeOwnersPackageTest\CustomerInformationTest$5.class
 homePageTest\InsuranceProductsTest$20.class
+homePageTest\LoginGoogleSheetTest$1.class
 homePageTest\InsuranceProductsTest$15.class
 homePageTest\InsuranceProductsTest$2.class
 homePageTest\InsuranceProductsTest$18.class
 condoInsuranceTest\CustomerInformationTest.class
+homePageTest\LoginExcelSheetTest$1.class
 motorVehicleTest\MotorVehicleCustomerInformationTest.class
 autoInsurancePackageTest\GetQuoteTest$1.class
 homeOwnersPackageTest\CustomerInformationTest$6.class
@@ -55,7 +58,6 @@ homePageTest\InsuranceProductsTest$19.class
 rentersInsuranceTest\RentersPropertySalesTest.class
 homePageTest\InsuranceProductsTest$7.class
 screenshotTest\ScreenShotTest$1.class
-homePageTest\LoginTest$1.class
 homePageTest\InsuranceProductsTest$22.class
 homeOwnersPackageTest\CustomerInformationTest.class
 navigationBarTest\InformationAndInsuranceHoverTest$1.class
@@ -65,8 +67,6 @@ rentersInsuranceTest\PropertySalesTest$5.class
 homePageTest\InsuranceProductsTest$10.class
 navigationBarTest\InformationAndInsuranceHoverTest.class
 navigationBarTest\NavigationBarTest.class
-homePageTest\LoginTestGoogleSheet$1.class
-homePageTest\LoginTestGoogleSheet.class
 homeOwnersPackageTest\PromptToCallTest$1.class
 autoInsurancePackageTest\GetQuoteTest.class
 homeOwnersPackageTest\CustomerInformationTest$3.class
